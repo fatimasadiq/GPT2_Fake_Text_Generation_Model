@@ -1,0 +1,1377 @@
+TITLE
+Audio Location Accurate Low Cost Location Sensing
+A Formal Model of Obfuscation and Negotiation for Location Privacy
+A Conceptual Framework for Camera Phone Based Interaction Techniques
+u Photo Interacting with Pervasive Services Using Digital Still Images
+Towards Massively Multi user Augmented Reality on Handheld Devices
+Design Methodology for Context Aware Wearable Sensor Systems
+Collaborative Sensing in a Retail Store Using Synchronous Distributed Jam Signalling
+Parasitic Mobility for Pervasive Sensor Networks
+Decision Theoretic Planning Meets User Requirements Enhancements and Studies of an Intelligent Shopping Guide
+Integrating Intra and Extra Gestures into a Mobile and Multimodal Shopping Assistant
+AwareMirror A Personalized Display Using a Mirror
+Using Sound Source Localization in a Home Environment
+Embedded Assessment Overcoming Barriers to Early Detection with Pervasive Computing
+Tracking Locations of Moving Hand Held Displays Using Projected Light
+Bathroom Activity Monitoring Based on Sound
+Simultaneous Tracking and Activity Recognition STAR Using Many Anonymous Binary Sensors
+Enhancing Semantic Spaces with Event Driven Context Interpretation
+The Java Context Awareness Framework JCAF A Service Infrastructure and Programming Framework for Context Aware Applications
+Place Lab Device Positioning Using Radio Beacons in the Wild
+Social Disclosure of Place From Location Technology to Communication Practices
+CarpetLAN A Novel Indoor Wireless like Networking and Positioning System
+Learning and Recognizing the Places We Go
+Visually Interactive Location Aware Computing
+DigiDress A Field Trial of an Expressive Social Proximity Application
+Control Deception and Communication Evaluating the Deployment of a Location Enhanced Messaging Service
+Place Its A Study of Location Based Reminders on Mobile Phones
+Time Ownership and Awareness The Value of Contextual Locations in the Home
+Living for the Global City Mobile Kits Urban Interfaces and Ubicomp
+From Interaction to Participation Configuring Space Through Embodied Interaction
+Scanning Objects in the Wild Assessing an Object Triggered Information System
+Abaris Evaluating Automated Capture Applied to Structured Autism Interventions
+u Texture Self Organizable Universal Panels for Creating Smart Surroundings
+To Frame or Not to Frame The Role and Design of Frameless Displays in Ubiquitous Applications
+Picking Pockets on the Lawn The Development of Tactics and Strategies in a Mobile Game
+ActiveTheatre A Collaborative Event Based Capture and Access System for the Operating Theatre
+Fast and Robust Interface Generation for Ubiquitous Applications
+Analysis of Chewing Sounds for Dietary Monitoring
+Preventing Camera Recording by Designing a Capture Resistant Environment
+Self Mapping in 802 11 Location Systems
+A Study of Bluetooth Propagation Using Accurate Indoor Location Mapping
+A New Method for Auto calibrated Object Tracking
+Accurate GSM Indoor Localization
+A Practical Approach to Recognizing Physical Activities
+Domino Exploring Mobile Collaborative Software Adaptation
+Keep Your Eyes on the Road and Your Finger on the Trigger Designing for Mixed Focus of Attention in a Mobile Game for Brief Encounters
+Unobtrusive Multimodal Biometrics for Ensuring Privacy and Information Security with Personal Devices
+LoKey Leveraging the SMS Network in Decentralized End to End Trust Establishment
+Scalability in a Secure Distributed Proof System
+Secure Mobile Computing Via Public Terminals
+iCAP Interactive Prototyping of Context Aware Applications
+iCam Precise at a Distance Interaction in the Physical Environment
+Gesture Signature for Ambient Intelligence Applications A Feasibility Study
+Exploring the Effects of Target Location Size and Position System Accuracy on Location Based Applications
+Building Reliable Activity Models Using Hierarchical Shrinkage and Mined Ontology
+Displays in the Wild Understanding the Dynamics and Evolution of a Display Ecology
+Modeling Human Behavior from Simple Sensors in the Home
+Using a Live In Laboratory for Ubiquitous Computing Research
+The Diet Aware Dining Table Observing Dietary Behaviors over a Tabletop Surface
+Lessons for the Future Experiences with the Installation and Use of Today s Domestic Sensors and Technologies
+ Need to Know Examining Information Need in Location Discourse
+Collaborative Localization Enhancing WiFi Based Position Estimation with Neighborhood Links in Clusters
+Risks of Using AP Locations Discovered Through War Driving
+Declarative Support for Sensor Data Cleaning
+Detecting and Interpreting Muscle Activity with Wearable Force Sensors
+The Design of a Portable Kit of Wireless Sensors for Naturalistic Data Collection
+The Smart Tachograph Individual Accounting of Traffic Costs and Its Implications
+A Quantitative Method for Revealing and Comparing Places in the Home
+Scribe4Me Evaluating a Mobile Sound Transcription Tool for the Deaf
+SenseCam A Retrospective Memory Aid
+Development of a Privacy Addendum for Open Source Licenses Value Sensitive Design in Industry
+Mobility Detection Using Everyday GSM Traces
+Practical Metropolitan Scale Positioning for GSM Phones
+Predestination Inferring Destinations from Partial Trajectories
+Fish n Steps Encouraging Physical Activity with an Interactive Computer Game
+Hitchers Designing for Cellular Positioning
+Embedding Behavior Modification Strategies into a Consumer Electronic Device A Case Study
+Instrumenting the City Developing Methods for Observing and Understanding the Digital Cityscape
+Principles of Smart Home Control
+Voting with Your Feet An Investigative Study of the Relationship Between Place Visit Behavior and Preference
+Lo Fi Matchmaking A Study of Social Pairing for Backpackers
+Experiences from Real World Deployment of Context Aware Technologies in a Hospital Environment
+Doing Community Co construction of Meaning and Use with Interactive Information Kiosks
+Moving on from Weiser s Vision of Calm Computing Engaging UbiComp Experiences
+Ferret RFID Localization for Pervasive Multimedia
+PowerLine Positioning A Practical Sub Room Level Indoor Location System for Domestic Use
+UbiREAL Realistic Smartspace Simulator for Systematic Testing
+Instant Matchmaking Simple and Secure Integrated Ubiquitous Computing Environments
+A Wirelessly Powered Platform for Sensing and Computation
+Historical Analysis Using the Past to Design the Future
+Automated Application Specific Tuning of Parameterized Sensor Based Embedded System Building Blocks
+Extending Authoring Tools for Location Aware Applications with an Infrastructure Visualization Layer
+Automated Generation of Basic Custom Sensor Based Embedded Computing Systems Guided by End User Optimization Criteria
+An Experimental Comparison of Physical Mobile Interaction Techniques Touching Pointing and Scanning
+An Exploratory Study of How Older Women Use Mobile Phones
+Farther Than You May Think An Empirical Investigation of the Proximity of Users to Their Mobile Phones
+ No More SMS from Jesus Ubicomp Religion and Techno spiritual Practices
+Event Driven Personalizable Mobile Interactive Spaces
+A Context Sensitive Nomadic Exhibition Guide
+Exploiting Location Based Composite Devices to Support and Facilitate Situated Ubiquitous Computing
+Location Aware Information Delivery withComMotion 
+CybreMinder A Context Aware System for Supporting Reminders
+Using Handheld Devices in Synchronous Collaborative Scenarios
+Smartcards How to Put Them to Use in a User Centric System
+Using Dynamic Mediation to Integrate COTS Entities in a Ubiquitous Computing Environment
+EVENTMANAGER Support for the Peripheral Awareness of Events
+Safety and Comfort of Eyeglass Displays
+EasyLiving Technologies for Intelligent Environments
+Beyond the Control Room Mobile Devices for Spatially Distributed Interaction on Industrial Process Plants
+PowerView Using Information Links and Information Views to Navigate and Visualize Information on Small Displays
+A Comparison of Free Interaction Modes for Mobile Layout System
+Real World Graphical User Interfaces
+Lessons Learned from the Design of a Mobile Multimedia System in the MOBY DICK Project
+Notable At the Intersection of Annotations and Handheld Technology
+Creating Web Representations for Places
+Assembling the Planetary Computer
+Smart Its Friends A Technique for Users to Easily Establish Connections between Smart Artefacts
+Integrating Meeting Capture within a Collaborative Team Environment
+A Ubiquitous Service Environment with Active Documents for Teamwork Support
+Digital Assistant for Supporting Conference Participants An Attempt to Combine Mobile Ubiquitous and Web Computing
+The Family Intercom Developing a Context Aware Audio Communication System
+The Conversational Role of Electronic Guidebooks
+Who What When Where How Design Issues of Capture amp Access Applications
+Unearthing Virtual History Using Diverse Interfaces to Reveal Hidden Virtual Worlds
+KISS the Tram Exploring the PDA as Support for Everyday Activities
+ GeoNotes Social and Navigational Aspects of Location Based Information Systems
+Subtle and Public Notification Cues for Mobile Devices
+ InfoScope Link from Real World to Digital Information Space
+At Home with Ubiquitous Computing Seven Challenges
+Privacy by Design Principles of Privacy Aware Ubiquitous Systems
+TrekTrack A Round Wristwatch Interface for SMS Authoring
+A Compact Wireless Self Powered Pushbutton Controller
+Interacting at a Distance Using Semantic Snarfing
+The Everywhere Displays Projector A Device to Create Ubiquitous Graphical Interfaces
+UniCast OutCast amp GroupCast Three Steps Toward Ubiquitous Peripheral Displays
+Multibrowsing Moving Web Content across Multiple Displays
+A Probabilistic Room Location Service for Wireless Networked Environments
+On the Design of Personal amp Communal Large Information Scale Appliances
+Serendipity within a Ubiquitous Computing Environment A Case for Opportunistic Browsing
+Location Information Managment
+Low Cost Indoor Positioning System
+Making Everyday Life Easier Using Dense Sensor Networks
+ICrafter A Service Framework for Ubiquitous Computing Environments
+Using JIT Compilation and Configurable Runtime Systems for Efficient Deployment of Java Programs on Ubiquitous Devices
+Software Infrastructure for Ubiquitous Computing Environments Supporting Synchronous Collaboration with Heterogeneous Devices
+Context Aware Computing A Test Case
+Face Responsive Interfaces From Direct Manipulation to Perceptive Presence
+Vision Based Face Tracking System for Large Displays
+The FindIT Flashlight Responsive Tagging Based on Optically Triggered Microprocessor Wakeup
+ ForSe FIElds Force Sensors for Interactive Environments
+Approximate Information Flows Socially Based Modeling of Privacy in Ubiquitous Computing
+The Personal Server Changing the Way We Think about Ubiquitous Computing
+ QueryLens Beyond ID Based Information Access
+Pin amp Play Networking Objects through Pins
+Social Aspects of Using Large Public Interactive Displays for Collaboration
+A Privacy Awareness System for Ubiquitous Computing Environments
+ComicDiary Representing Individual Experiences in a Comics Style
+A Hybrid Location Model with a Computable Location Identifier for Ubiquitous Computing
+A Novel Broadband Ultrasonic Location System
+Location of Mobile Devices Using Networked Surfaces
+SmartMoveX on a Graph An Inexpensive Active Badge Tracker
+A Generic Location Event Simulator
+PlantCare An Investigation in Practical Ubiquitous Systems
+Context Acquisition Based on Load Sensing
+Proactive Instructions for Furniture Assembly
+WearNET A Distributed Multi sensor System for Context Aware Wearables
+Using Low Cost Sensing to Support Nutritional Awareness
+ Mobile Reality A PDA Based Multimodal Framework Synchronizing a Hybrid Tracking Solution with 3D Graphics and Location Sensitive Speech Interaction
+Rememberer A Tool for Capturing Museum Visits
+Issues in Personalizing Shared Ubiquitous Devices
+User Study Techniques in the Design and Evaluation of a Ubicomp Environment
+Change Blind Information Display for Ubiquitous Computing Environments
+Supporting Human Activities Exploring Activity Centered Computing
+Perceptual Components for Context Aware Computing
+The SAHARA Model for Service Composition across Multiple Providers
+The Untrusted Computer Problem and Camera Based Authentication
+SoapBox A Platform for Ubiquitous Computing Research and Applications
+Pushpin Computing System Overview A Platform for Distributed Embedded Ubiquitous Sensor Networks
+Making Sensor Networks Practical with Robots
+Modeling Context Information in Pervasive Computing Systems
+A Model for Software Configuration in Ubiquitous Computing Environments
+INS Twine A Scalable Peer to Peer Architecture for Intentional Resource Discovery
+Location Estimation Indoors by Means of Small Computing Power Devices Accelerometers Magnetic Sensors and Map Knowledge
+Estimating the Benefit of Location Awareness for Mobile Data Management Mechanisms
+iCAMS A Mobile Communication Tool Using Location and Schedule Information
+Ubiquitous Computing in the Automotive Domain Abstract 
+Browser State Repository Service
+Annotation by Transformation for the Automatic Generation of Content Customization Metadata
+SCAN A Dynamic Scalable and Efficient Content Distribution Network
+Building Applications for Ubiquitous Computing Environments
+Systems Support for Ubiquitous Computing A Case Study of Two Implementations of Labscape
+On the Gap between Vision and Feasibility
+The Fastap Keypad and Pervasive Computing
+Going Back to School Putting a Pervasive Environment into the Real World
+Pervasive Web Access via Public Communication Walls
+Efficient Object Identification with Passive RFID Tags
+Design Probes for Handheld and Ubiquitous Computing
+Advanced Interaction in Context
+Exploring Brick Based Navigation and Composition in an Augmented Reality
+Handheld Computing Predictions What Went Wrong 
+The Open End Argument for Private Computing
+Integrating PDAs into Distributed Systems 2K and PalmORB
+Designing Information Appliances Using a Resource Replication Model
+ Active Map A Visualization Tool for Location Awareness to Support Informal Interactions
+Close Encounters Supporting Mobile Collaboration through Interchange of User Profiles
+A Digital Photography Framework Supporting Social Interaction and Affective Awareness
+The Role of Connectivity in Supporting Context Sensitive Applications
+Maintaining Context and Control in a Digital World
+Issues in Developing Context Aware Computing
+RAMSES A Mobile Computing System for Field Archaeology
+Token Based Access to Digital Information
+InfoStick An Interaction Device for Inter Appliance Computing
+Using Spatial Co location for Coordination in Ubiquitous Computing Environments
+Amplifying Reality
+Designing Interaction Styles for a Mobile Use Context
+POBox An Efficient Text Input Method for Handheld and Ubiquitous Computers
+Middleware for Ubiquitous Computing
+Towards a Better Understanding of Context and Context Awareness
+Everywhere Messaging
+The MediaCup Awareness Technology Embedded in an Everyday Object
+Point amp Click Interaction in Smart Environments
+Wearable Information Appliances for the Emergency Services HotHelmet
+Using Wearable Computer as an Audiovisual Memory Prosthesis
+Today s Stories
+On the Self Evaluation of a Wearable Assistant
+On Positioning for Augmented Reality Systems
+Hippie A Nomadic Information System
+A Rapidly Configurable Location Aware Information System for an Exterior Environment
+Mobile Computing in Machine Engineering Applications
+Mobile Ubiquitous and the Sense of Space
+Chameleon Reconfigurability in Hand Held Multimedia Computers
+An Evaluation of WebTwig A Site Outliner for Handheld Web Access
+Human Factors of Multi modal Ubiquitous Computing
+URCP Experimental Support for Multi modal Interfaces
+Magic Medicine Cabinet A Situated Portal for Consumer Healthcare
+Augmented Workspace The World as Your Desktop
+The ChatterBox
+Pollen Virtual Networks That Use People as Carriers
+VoIP in Context Aware Communication Spaces
+A Platform for Environment Aware Applications
+The Children s Machines Handheld and Wearable Computers Too
+The Design and Implementation of the Ubidata Information Dissemination Framework
+Co authoring in Dynamic Teams with Mobile Individuals
+A Universal Location Aware Hoarding Mechanism
+QoS and Context Awareness for Mobile Computing
+Anonymous and Confidential Communications from an IP Addressless Computer
+Ad hoc Network Routing for Centralized Information Sharing Systems
+Pocket BargainFinder A Handheld Device for Augmented Commerce
+Scalable and Flexible Location Based Services for Ubiquitous Information Access
+Enabling Context Awareness from Network Level Location Tracking
+Perceptual Intelligence
+Activity Recognition from User Annotated Acceleration Data
+Activity Recognition in the Home Using Simple and Ubiquitous Sensors
+Automatic Calibration of Body Worn Acceleration Sensors
+Reject Optional LVQ Based Two Level Classifier to Improve Reliability in Footstep Identification
+Issues with RFID Usage in Ubiquitous Computing Applications
+A Fault Tolerant Key Distribution Scheme for Securing Wireless Ad Hoc Networks
+ProxNet Secure Dynamic Wireless Connection by Proximity Sensing
+Tackling Security and Privacy Issues in Radio Frequency Identification Devices
+Towards Wearable Autonomous Microsystems
+Ubiquitous Chip A Rule Based I O Control Device for Ubiquitous Computing
+eSeal A System for Enhanced Electronic Assertion of Authenticity and Integrity
+Recognizing Workshop Activity Using Body Worn Microphones and Accelerometers
+A Distributed Precision Based Localization Algorithm for Ad Hoc Networks
+Adaptive On Device Location Recognition
+Accommodating Transient Connectivity in Ad Hoc and Mobile Settings
+Microbiology Tray and Pipette Tracking as a Proactive Tangible User Interface
+Augmenting Collections of Everyday Objects A Case Study of Clothes Hangers As an Information Display
+MirrorSpace Using Proximity as an Interface to Video Mediated Communication
+SearchLight A Lightweight Search Function for Pervasive Environments
+ Are You with Me Using Accelerometers to Determine If Two Devices Are Carried by the Same Person
+Context Cube Flexible and Effective Manipulation of Sensed Context Data
+A Context Aware Communication Platform for Smart Objects
+Siren Context aware Computing for Firefighting
+Spectacle Based Design of Wearable See Through Display for Accommodation Free Viewing
+A Compact Battery Less Information Terminal for Real World Interaction
+INCA A Software Infrastructure to Facilitate the Construction and Evolution of Ubiquitous Capture amp Access Applications
+The CareNet Display Lessons Learned from an In Home Evaluation of an Ambient Display
+Designing Capture Applications to Support the Education of Children with Autism
+ This All Together Hon Ubicomp in Non office Work Environments
+Security and Trust in Mobile Interactions A Study of Users Perceptions and Reasoning
+WatchMe Communication and Awareness Between Members of a Closely Knit Group
+Everyday Encounters with Context Aware Computing in a Campus Environment
+Cooperative Artefacts Assessing Real World Situations with Embedded Technology
+I Sense a Disturbance in the Force Unobtrusive Detection of Interactions with RFID tagged Objects
+The NearMe Wireless Proximity Server
+The ContextCam Automated Point of Capture Video Annotation
+MouseField A Simple and Versatile Input Device for Ubiquitous Computing
+Personalized Peripheral Information Awareness Through Information Art
+The Iterative Design Process of a Location Aware Device for Group Use
+DOLPHIN A Practical Approach for Implementing a Fully Distributed Indoor Ultrasonic Positioning System
+The Carrot Approach Encouraging Use of Location Systems
+ActiveBelt Belt Type Wearable Tactile Display for Directional Navigation
+An Audio Based Personal Memory Aid
+Infrastructures and Their Discontents Implications for Ubicomp
+Opportunity Knocks A System to Provide Cognitive Assistance with Transportation Services
+Reminding About Tagged Objects Using Passive RFIDs
+Evaluating the Effects of Displaying Uncertainty in Context Aware Applications
+The Error of Our Ways The Experience of Self Reported Position in a Location Based Game
+Particle Filters for Location Estimation in Ubiquitous Computing A Case Study
+Some Assembly Required Supporting End User Sensor Installation in Domestic Ubiquitous Computing Environments
+Rapid Authoring of Mediascapes
+CAMP A Magnetic Poetry Interface for End User Programming of Capture Applications for the Home
+Building World Models by Ray Tracing within Ceiling Mounted Positioning Systems
+AwareCon Situation Aware Context Communication
+liquid Context Aware Distributed Queries
+Is Context Aware Computing Taking Control away from the User Three Levels of Interactivity Examined
+Tools for Studying Behavior and Technology in Natural Settings
+Very Low Cost Sensing and Communication Using Bidirectional LEDs
+SPECs Another Approach to Human Context and Activity Sensing Research Using Tiny Peer to Peer Wireless Computers
+A 2 Way Laser Assisted Selection Scheme for Handhelds in a Physical Environment
+Finding a Place for UbiComp in the Home
+New Perspectives on Ubiquitous Computing from Ethnographic Study of Elders with Cognitive Decline
+Practical Considerations of Context for Context Based Systems An Example from an Ethnographic Case Study of a Man Diagnosed with Early Onset Alzheimer s Disease
+On a Location Model for Fine Grained Geocast
+ Playing with the Bits User Configuration of Ubiquitous Domestic Environments
+IntelliBadgeTM Towards Providing Location Aware Value Added Services at Academic Conferences
+UbiTable Impromptu Face to Face Collaboration on Horizontal Interactive Surfaces
+Social Network Computing
+The Design of a Context Aware Home Media Space for Balancing Privacy and Awareness
+Context Aware Computing with Sound
+An Architecture and Framework for Steerable Interface Systems
+Evaluation of Visual Notification Cues for Ubiquitous Computing
+RightSPOT A Novel Sense of Location for a Smart Personal Object
+User Friendly Surveying Techniques for Location Aware Systems
+Sto ry chastics A Bayesian Network Architecture for User Modeling and Computational Storytelling for Interactive Spaces
+Inferring High Level Behavior from Low Level Sensors
+Activity Zones for Context Aware Computing
+Context Aware User Authentication Supporting Proximity Based Login in Pervasive Computing
+Secure Spontaneous Device Association
+Augmenting Looking Pointing and Reaching Gestures to Enhance the Searching and Browsing of Physical Objects
+Virtual Walls Protecting Digital Privacy in Pervasive Environments
+Trust Privacy and Relationships in Pervasive Education Families Views on Homework and Technologies
+Operating Appliances with Mobile Phones Strengths and Limits of a Universal Interaction Device
+Portable But Not Mobile A Study of Wireless Laptops in the Home
+Managing Communication Availability and Interruptions A Study of Mobile Communication in an Oncology Department
+Using Ground Reaction Forces from Gait Analysis Body Mass as a Weak Biometric
+Weight Sensitive Foam to Monitor Product Availability on Retail Shelves
+Assessing and Optimizing the Range of UHF RFID to Enable Real World Pervasive Computing Applications
+Movement Based Group Awareness with Wireless Sensor Networks
+Zone Based RSS Reporting for Location Fingerprinting
+Reach Out and Touch Using NFC and 2D Barcodes for Service Discovery and Interaction with Mobile Devices
+TrackSense Infrastructure Free Precise Indoor Positioning Using Projected Patterns
+Objects Calling Home Locating Objects Using Mobile Phones
+Combining Web Mobile Phones and Public Displays in Large Scale Manhattan Story Mashup
+PersonisAD Distributed Active Scrutable Model Framework for Context Aware Services
+An Exploration into Activity Informed Physical Advertising Using PEST
+Evaluating a Wearable Display Jersey for Augmenting Team Sports Awareness
+Using Location Bearing and Motion Data to Filter Video and System Logs
+Inference Attacks on Location Tracks
+Shake Well Before Use Authentication Based on Accelerometer Data
+A Statistical Reasoning System for Medication Prompting
+Symbolic Object Localization Through Active Sampling of Acceleration and Sound Signatures
+An Exploration of Location Error Estimation
+Security by Spatial Reference Using Relative Positioning to Authenticate Devices for Spontaneous Interaction
+Users and Batteries Interactions and Adaptive Energy Management in Mobile Systems
+An Empirical Study of the Potential for Context Aware Power Management
+Amigo Proximity Based Authentication of Mobile Devices
+At the Flick of a Switch Detecting and Classifying Unique Electrical Events on the Residential Power Line Nominated for the Best Paper Award 
+An Object Use Fingerprint The Use of Electronic Sensors for Human Identification
+Key Generation Based on Acceleration Data of Shaking Processes
+ Merolyn the Phone A Study of Bluetooth Naming Practices Nominated for the Best Paper Award 
+Tracking Free Weight Exercises
+Why It s Worth the Hassle The Value of In Situ Studies When Designing Ubicomp
+Locating Family Values A Field Trial of the Whereabouts Clock
+Safeguarding Location Privacy in Wireless Ad Hoc Networks
+Haggle Seamless Networking for Mobile Applications
+Exploiting Social Interactions in Mobile Systems
+Rapidly Exploring Application Design Through Speed Dating
+Addressing Mobile Phone Diversity in Ubicomp Experience Development
+Sensor Networks or Smart Artifacts An Exploration of Organizational Issues of an Industrial Health and Safety Monitoring System
+A Long Term Evaluation of Sensing Modalities for Activity Recognition
+Cooperative Augmentation of Smart Objects with Projector Camera Systems
+Playful Tray Adopting Ubicomp and Persuasive Techniques into Play Based Occupational Therapy for Reducing Poor Eating Behavior in Young Children
+Privacy Enhancing Technologies for RFID in Retail An Empirical Investigation
+Ninja Non Identity Based Privacy Preserving Authentication for Ubiquitous Environments
+Field Deployment of IMBuddy A Study of Privacy Control and Feedback Mechanisms for Contextual IM
+Yours Mine and Ours Sharing and Use of Technology in Domestic Environments
+How Smart Homes Learn The Evolution of the Networked Home and Household
+ My Roomba Is Rambo Intimate Home Appliances
+Detecting Human Movement by Differential Air Pressure Sensing in HVAC System Ductwork An Exploration in Infrastructure Mediated Sensing
+Location Conflict Resolution with an Ontology
+Evaluation and Analysis of a Common Model for Ubiquitous Systems Interoperability
+A Context Aware System that Changes Sensor Combinations Considering Energy Consumption
+Providing an Integrated User Experience of Networked Media Devices and Services through End User Composition
+Overcoming Assumptions and Uncovering Practices When Does the Public Really Look at Public Displays 
+Gaming Tourism Lessons from Evaluating REXplorer a Pervasive Game for Tourists
+Opportunities for Pervasive Computing in Chronic Cancer Care
+AnonySense Opportunistic and Privacy Preserving Context Collection
+Privacy Protection for RFID with Hidden Subset Identifiers
+Robust Recognition of Reading Activity in Transit Using Wearable Electrooculography
+Pressing the Flesh Sensing Multiple Touch and Finger Pressure on Arbitrary Surfaces
+ MakeIt Integrate User Interaction Times in the Design Process of Mobile Applications
+Cooperative Techniques Supporting Sensor Based People Centric Inferencing
+Microsearch When Search Engines Meet Small Devices
+Identifying Meaningful Places The Non parametric Way
+An Integrated Platform for the Management of Mobile Location Aware Information Systems
+Calibree Calibration Free Localization Using Relative Distance Estimations
+Display Blindness The Effect of Expectations on Attention towards Digital Signage
+Mobile Device Interaction with Force Sensing
+Inferring Identity Using Accelerometers in Television Remote Controls
+The Effectiveness of Haptic Cues as an Assistive Technology for Human Memory
+Exploring Privacy Concerns about Personal Sensing
+Enabling Pervasive Collaboration with Platform Composition
+ Askus Amplifying Mobile Actions
+Boxed Pervasive Games An Experience with User Created Pervasive Games
+RF Based Initialisation for Inertial Pedestrian Tracking
+PL Tags Detecting Batteryless Tags through the Power Lines in a Building
+Geo fencing Confining Wi Fi Coverage to Physical Boundaries
+Users View on Context Sensitive Car Advertisements
+Securing RFID Systems by Detecting Tag Cloning
+Towards Ontology Based Formal Verification Methods for Context Aware Systems
+Situvis A Visual Tool for Modeling a User s Behaviour Patterns in a Pervasive Environment
+Methodologies for Continuous Cellular Tower Data Analysis
+ It s Just Easier with the Phone A Diary Study of Internet Access from Cell Phones
+Does Context Matter A Quantitative Evaluation in a Real World Maintenance Scenario
+On the Anonymity of Home Work Location Pairs
+Working Overtime Patterns of Smartphone and PC Usage in the Day of an Information Worker
+ReflectiveSigns Digital Signs That Adapt to Audience Attention
+Realistic Driving Trips For Location Privacy
+Enhancing Navigation Information with Tactile Output Embedded into the Steering Wheel
+Landmark Based Pedestrian Navigation with Enhanced Spatial Reasoning
+The Acceptance of Domestic Ambient Intelligence Appliances by Prospective Users
+Adding GPS Control to Traditional Thermostats An Exploration of Potential Energy Savings and Design Challenges
+KidCam Toward an Effective Technology for the Capture of Children s Moments of Interest
+Virtual Compass Relative Positioning to Sense Mobile Social Interactions
+Out of the Lab and into the Fray Towards Modeling Emotion in Everyday Life
+The Secret Life of Machines Boundary Objects in Maintenance Repair and Overhaul
+Automatic Assessment of Cognitive Impairment through Electronic Observation of Object Usage
+Further into the Wild Running Worldwide Trials of Mobile Systems
+Studying the Use and Utility of an Indoor Location Tracking System for Non experts
+Object Based Activity Recognition with Heterogeneous Sensors on Wrist
+GasSense Appliance Level Single Point Sensing of Gas Activity in the Home
+Transferring Knowledge of Activity Recognition across Sensor Networks
+Common Sense Community Scaffolding Mobile Sensing and Analysis for Novice Users
+Active Capacitive Sensing Exploring a New Wearable Sensing Modality for Activity Recognition
+The Geography of Taste Analyzing Cell Phone Mobility and Social Events
+Using Height Sensors for Biometric Identification in Multi resident Homes
+Supporting Energy Efficient Uploading Strategies for Continuous Sensing Applications on Mobile Phones
+Efficient Resource Aware Hybrid Configuration of Distributed Pervasive Applications
+12Pixels Exploring Social Drawing on Mobile Phones
+No Look Notes Accessible Eyes Free Multi touch Text Entry
+On the Use of Brain Decoded Signals for Online User Adaptive Gesture Recognition Systems
+Indoor Positioning Using GPS Revisited
+Specification and Verification of Complex Location Events with Panoramic
+ Tactile Wayfinder Comparison of Tactile Waypoint Navigation with Commercial Pedestrian Navigation Systems
+Jog Falls A Pervasive Healthcare Platform for Diabetes Management
+EyeCatcher A Digital Camera for Capturing a Variety of Natural Looking Facial Expressions in Daily Snapshots
+TreasurePhone Context Sensitive User Data Protection on Mobile Phones
+Recruitment Framework for Participatory Sensing Data Collections
+Planning Apps and the High End Smartphone Exploring the Landscape of Modern Cross Device Reaccess
+NextPlace A Spatio temporal Prediction Framework for Pervasive Systems
+Using Decision Theoretic Experience Sampling to Build Personalized Mobile Phone Interruption Models
+SpeakerSense Energy Efficient Unobtrusive Speaker Identification on Mobile Phones
+Text Text Revolution A Game That Improves Text Entry on Mobile Touchscreen Keyboards
+Pervasive Sensing to Model Political Opinions in Face to Face Networks
+Lessons from Touring a Location Based Experience
+Hybrid Prototyping by Using Virtual and Miniature Simulation for Designing Spatial Interactive Information Systems
+Designing Shared Public Display Networks Implications from Today s Paper Based Notice Areas
+Recognizing the Use of Portable Electrical Devices with Hand Worn Magnetic Sensors
+3D Gesture Recognition An Evaluation of User and System Performance
+Understanding Human Smartphone Concerns A Study of Battery Life
+Recognition of Hearing Needs from Body and Eye Movements to Improve Hearing Instruments
+Recognizing Whether Sensors Are on the Same Body
+Sensing and Classifying Impairments of GPS Reception on Mobile Devices
+Monitoring Residential Noise for Prospective Home Owners and Renters
+A Longitudinal Study of Pressure Sensing to Infer Real World Water Usage Events in the Home
+Exploring the Design Space for Situated Glyphs to Support Dynamic Work Environments
+Learning Time Based Presence Probabilities
+ n Gram Geo trace Modeling
+Autonomous Construction of a WiFi Access Point Map Using Multidimensional Scaling
+Identifying Important Places in People s Lives from Cellular Network Data
+Personalized Driving Behavior Monitoring and Analysis for Emerging Hybrid Vehicles
+Hacking the Natural Habitat An In the Wild Study of Smart Homes Their Development and the People Who Live in Them
+The Design of a Segway AR Tactile Navigation System
+Route Guidance Modality for Elder Driver Navigation
+Interactive Environment Aware Handheld Projectors for Pervasive Computing Spaces
+ NET Gadgeteer A Platform for Custom Devices
+Recognizing Handheld Electrical Device Usage with Hand Worn Coil of Wire
+Self calibration of RFID Reader Probabilities in a Smart Real Time Factory
+AWESOM Automatic Discrete Partitioning of Indoor Spaces for WiFi Fingerprinting
+Indoor Pedestrian Navigation Based on Hybrid Route Planning and Location Modeling
+Estimating Position Relation between Two Pedestrians Using Mobile Phones
+Mimic Sensors Battery Shaped Sensor Node for Detecting Electrical Events of Handheld Devices
+Clearing a Crowd Context Supported Neighbor Positioning for People Centric Navigation
+Paying in Kind for Crowdsourced Work in Developing Regions
+Tangible and Casual NFC Enabled Mobile Games
+Big Brother Knows Your Friends On Privacy of Social Communities in Pervasive Networks
+Map Aware Position Sharing for Location Privacy in Non trusted Systems
+Sense and Sensibility in a Pervasive World
+From School Food to Skate Parks in a Few Clicks Using Public Displays to Bootstrap Civic Engagement of the Young
+Increasing Brand Attractiveness and Sales through Social Media Comments on Public Displays Evidence from a Field Experiment in the Retail Industry
+Automatic Description of Context Altering Services through Observational Learning
+Leveraging Children s Behavioral Distribution and Singularities in New Interactive Environments Study in Kindergarten Field Trips
+Urban Traffic Modelling and Prediction Using Large Scale Taxi GPS Traces
+A Unified Framework for Modeling and Predicting Going Out Behavior
+The Hidden Image of the City Sensing Community Well Being from Urban Mobility
+Scalable Mining of Common Routes in Mobile Communication Network Traffic Data
+Accounting for Energy Reliant Services within Everyday Life at Home
+Smart Blueprints Automatically Generated Maps of Homes and the Devices Within Them
+Accurate activity recognition in a home setting
+Discovery of activity patterns using topic models
+Dealing with sensor displacement in motion based onbody activity recognition systems
+Real world activity recognition with multiple goals
+Improving the recognition of interleaved activities
+Lifelogging memory appliance for people with episodic memory impairment
+Flowers or a robot army encouraging awareness activity with personal mobile displays
+Online everywhere evolving mobile instant messaging practices
+A quantitative investigation of inertial power harvesting for human powered devices
+It s in your eyes towards context awareness and mobile HCI using wearable EOG goggles
+Wideband powerline positioning for indoor localization
+CILoS a CDMA indoor localization system
+Pedestrian localisation for indoor environments
+Localization in mobile ad hoc networks using cumulative route information
+Interactionist AI and the promise of ubicomp or how to put your box in the world without putting the world in your box
+On using existing time use study data for ubiquitous computing applications
+Using wearable sensors and real time inference to understand human recall of routine activities
+Using visualizations to increase compliance in experience sampling
+Towards the automated social analysis of situated speech data
+Design and implementation of a secure wireless mote based medical sensor network
+An empirical investigation of concerns of everyday tracking and recording technologies
+Reflecting on the invisible understanding end user perceptions of ubiquitous computing
+Protecting your daily in home activity information from a wireless snooping attack
+MobiRate making mobile raters stick to their word
+The heterogeneous home
+Plastic a metaphor for integrated technologies
+Getting to green understanding resource consumption in the home
+Designing sociable IT for public use
+Mixed initiative conflict resolution for context aware applications
+A context aware patient safety system for the operating room
+Deploy spontaneously supporting end users in building and enhancing a smart home
+Schema matching for context aware computing
+The potential for location aware power management
+Understanding mobility based on GPS data
+Navigate like a cabbie probabilistic reasoning from observed context aware behavior
+Accessible contextual information for urban orientation
+Enhanced shopping a dynamic map in a retail store
+Spyn augmenting knitting to support storytelling and reflection
+Picture this film assembly using toy gestures
+Bookisheet bendable device for browsing content using the metaphor of leafing through the pages
+Living with tableau machine a longitudinal investigation of a curious domestic intelligence
+Who will be the customer a social robot that anticipates people s behavior from their trajectories
+From spaces to places emerging contexts in mobile privacy
+The commodification of location dynamics of power in location based systems
+Discovering semantically meaningful places from pervasive RF beacons
+Privately querying location based services with SybilQuery
+Eye movement analysis for activity recognition
+Recognizing daily activities with RFID based sensors
+Cross domain activity recognition
+Recognizing stereotypical motor movements in the laboratory and classroom a case study with children on the autism spectrum
+inAir measuring and visualizing indoor air quality
+Wearable therapist sensing garments for supporting children improve posture
+Sonar based measurement of user presence and attention
+Simultaneous localization and mapping for pedestrians using only foot mounted inertial sensors
+BlueTone a framework for interacting with public displays using dual tone multi frequency through bluetooth
+Toward emergent technology for blended public displays
+A spotlight on security and privacy risks with future household robots attacks and lessons
+Authenticating ubiquitous services a study of wireless hotspot access
+SessionMagnifier a simple approach to secure and convenient kiosk browsing
+Understanding file access mechanisms for embedded Ubicomp collaboration interfaces
+Broadening Ubicomp s vision an exploratory study of charismatic pentecostals and technology use in Brazil
+ i Ubicomp4D i infrastructure and interaction for international development the case of urban indian slums
+Encountering SenseCam personal recording technologies in everyday life
+Applying pervasive technologies to create economic incentives that alter consumer behavior
+Playful bottle a mobile social persuasion system to motivate healthy water intake
+Assessing demand for intelligibility in context aware applications
+Interactive dirt increasing mobile work performance with a wearable projector camera system
+SwimMaster a wearable assistant for swimmer
+Validated caloric expenditure estimation using a single body worn sensor
+HydroSense infrastructure mediated single point sensing of whole home water activity
+ViridiScope design and implementation of a fine grained power monitoring system for homes
+It s not all about Green energy use in low income communities
+Experiences of participatory sensing in the wild
+Making dreams come true or how to avoid a living nightmare
+The calendar as a sensor analysis and improvement using data fusion with social networks and location
+Toolkit to support intelligibility in context aware applications
+Identifying the activities supported by locations with community authored content
+Examining micro payments for participatory sensing data collections
+Remarkable objects supporting collaboration in a creative environment
+VoiceYourView collecting real time feedback on the design of public spaces
+Designing for interaction immediacy to enhance social skills of children with autism
+Investigations of Ubicomp in the oil and gas industry
+Modeling people s place naming preferences in location sharing
+Rethinking location sharing exploring the implications of social driven vs purpose driven location sharing
+Empirical models of privacy in location sharing
+Hapori context based local search for mobile phones using community behavioral modeling and similarity
+Tasking networked CCTV cameras and mobile phones to identify and localize multiple people
+Predicting human behaviour from selected mobile phone data points
+Let s play mobile health games for adults
+MoviPill improving medication compliance for elders using a mobile persuasive social game
+Ambient influence can twinkly lights lure and abstract representations trigger behavioral change 
+Exploring inter child behavioral relativity in a shared social environment a field study in a kindergarten
+ElectriSense single point sensing using EMI for electrical event detection and classification in the home
+Understanding conflict between landlords and tenants implications for energy sensing and feedback
+SNUPI sensor nodes utilizing powerline infrastructure
+WATTR a method for self powered wireless sensing of water activity in the home
+Bridging the gap between physical location and online social networks
+Exploring end user preferences for location obfuscation location based services and the value of location
+The domestic panopticon location tracking in families
+Accuracy characterization of cell tower localization
+A grid based algorithm for on device GSM positioning
+Vehicular speed estimation using received signal strength from mobile phones
+Ubicomp to the masses a large scale study of two tangible interfaces for download
+What do you bring to the table investigations of a collaborative workspace
+Sketching with strangers in the wild study of ad hoc social communication by drawing
+Augmenting on screen instructions with micro projected guides when it works and when it fails
+EmotionSense a mobile phones based adaptive platform for experimental social psychology research
+Social sensing for epidemiological behavior change
+Psycho physiological measures for assessing cognitive load
+Using wearable activity type detection to improve physical activity energy expenditure estimation
+The Wi Fi privacy ticker improving awareness 38 control of personal information exposure on Wi Fi
+Groupthink usability of secure group association for wireless devices
+The design and evaluation of a task centered battery interface
+A middleware for rapid prototyping smart environments experiences in research and teaching
+Integrated tool chain for recording and handling large multimodal context recognition data sets
+Serendipitous family stories using findings from a study on family communication to share family history
+EnergyLife pervasive energy awareness for households
+Open M3 smart space with COTS devices
+Remote virtual devices middleware for dynamic device composition
+Demonstrating EnTracked a system for energy efficient position tracking for mobile devices
+Deployment planning tool for indoor 3D WSNs
+A demonstration of position and orientation sensor for two dimensional communication networks
+Prototype implementation of wireless sensor network using TV broadcast RF energy harvesting
+Leveraging the web of things for rapid prototyping of UbiComp applications
+Gaze based interaction with public displays using off the shelf components
+Grouper a proof of concept wearable wireless group coordinator
+Locaccino a privacy centric location sharing application
+Material computing computing materials
+CastOven a microwave oven with just in time video clips
+Propinquity exploring embodied gameplay
+NeuroWander a BCI game in the form of interactive fairy tale
+User activity understanding from mobile phone sensors
+FOAF improving detected social network accuracy
+ 966 sup 2 sup exploring physical check ins for location based services
+RFID localization for tangible and embodied multi user interaction with museum exhibits
+Ubiquitous geo referenced social skills therapy
+Beyond context awareness context prediction in an industrial application
+Social contraptions and embodied interaction
+Physiological data gathering in mobile environments
+A novel similarity measure for time series data with applications to gait and activity recognition
+EVIDANCE a mobile application for orchestrating multiple services ecologies
+Acoustic source localization of everyday sounds using wireless sensor networks
+Surprise trips a system to augment the natural experience of exploration
+Gathering requirements for a personal health management system
+Understanding Hatsukaichi Shuku post town in the Edo period using old drawing map stored in GPS 38 PDA
+Eyes grip and gesture as objective indicators of intentions and attention
+ALIS an interactive ecosystem for sustainable living
+Geolocation in the mobile web browser
+WEtransport a context based ride sharing platform
+Highly integratable large scale displays for public spaces
+Behavior based stigmergic navigation
+ i Paper to parameters i designing tangible simulation input
+Running gestures hands free interaction during physical activity
+CU Later a communication system considering time difference
+SocialMedicineBox a communication system for the elderly using medicine box
+LetterTwitter smart mailbox for spam filtered notification of received letters
+Convenience probe a participatory sensing tool to collect large scale consumer flow behaviors
+Throw your photos an intuitive approach for sharing between mobile phones and interactive tables
+Bayesian recognition of motion related activities with inertial sensors
+MyState using NFC to share social and contextual information in a quick and personalized way
+Peek A Boo the design of a mobile family media space
+MagicPhone pointing 38 interacting
+Supporting self expression for informal communication
+Routine as resource for the design of learning systems
+Design dimensions of ambient information systems to assist elderly with their activities of daily living
+Infrastructure awareness
+Goal driven opportunistic sensing
+Embedded assessment of wellness with smart home sensors
+Improving trust in context aware applications with intelligibility
+A holistic multipurpose life log framework
+Improving intelligibility and control in Ubicomp
+Context as a service
+Ubiquitous computing for sustainable energy UCSE2010 
+UbiHealth 2010 the 5th international workshop on ubiquitous health and wellness
+SISSI 10 social interaction in spatially separated environments
+The 4th ACM international workshop on context awareness for self managing systems CASEMANS 2010 
+PaperComp 2010 first international workshop on paper computing
+Research in the large using app stores markets and other wide distribution channels in Ubicomp research
+Transnational times locality globality and mobility in technology design and use
+Designing for performative interactions in public spaces
+Ubiquitous crowdsourcing
+Digital object memories in the internet of things workshop DOME IoT 2010 
+PerEd 2010 the third workshop on pervasive computing education
+UBI challenge workshop 2010 real world urban computing
+Mobile context awareness capabilities challenges and applications
+Smiling makes us happier enhancing positive mood and communication with smile encouraging digital appliances
+How to nudge in Situ designing lambent devices to deliver salient information in supermarkets
+CoDine an interactive multi sensory system for remote dining
+Promoting intergenerational communication through location based asynchronous video communication
+Living in a glass house a survey of private moments in the home
+Leveraging conductive inkjet technology to build a scalable and versatile surface for ubiquitous sensing
+HeatProbe a thermal based power meter for accounting disaggregated electricity usage
+LightWave using compact fluorescent lights as sensors
+Interactive 3D modeling of indoor environments with a consumer depth camera
+Tactile feedback without a big fuss simple actuators for high resolution phantom sensations
+Urban computing with taxicabs
+iBAT detecting anomalous taxi trajectories from GPS traces
+Where to find my next passenger
+Out of the lab and into the woods kinematic analysis in running using wearable sensors
+Route classification using cellular handoff patterns
+Reflections on the long term use of an experimental digital signage system
+Haptic reassurance in the pitch black for an immersive theatre experience
+When recommendation meets mobile contextual and personalized recommendation on the go
+Getting closer an empirical investigation of the proximity of user to their smart phones
+The danger of loose objects in the car challenges and opportunities for ubiquitous computing
+Who s your best friend targeted privacy attacks In location sharing social networks
+On the limitations of query obfuscation techniques for location privacy
+Are you close with me are you nearby investigating social groups closeness and willingness to share
+Understanding how visual representations of location feeds affect end user privacy concerns
+Employing user feedback for semantic location services
+Nurturing natural sensors
+Red balloon green balloon sensors in the sky
+Data broadcasting using mobile FM radio design realization and application
+Myngle unifying and filtering web content for unplanned access between multiple personal devices
+Mechanical hijacking how robots can accelerate UbiComp deployments
+MAQS a personalized mobile sensing system for indoor air quality monitoring
+PreHeat controlling home heating using occupancy prediction
+How smart is your smartcard measuring travel behaviours perceptions and incentives
+Mediated tabletop interaction in the biology lab exploring the design space of the rabbit
+Hand shape classification with a wrist contour sensor development of a prototype device
+Deliberation for intuition a framework for energy efficient trip detection on cellular phones
+SiFi exploiting VoIP silence for WiFi energy savings insmart phones
+LEAP a low energy assisted GPS for trajectory based services
+An empirical approach to smartphone energy level prediction
+Enabling large scale human activity inference on smartphones using community similarity networks csn 
+Sundroid solar radiation awareness with smartphones
+Accurate and privacy preserving cough sensing using a low cost microphone
+Passive and In Situ assessment of mental and physical well being using mobile sensors
+The place for ubiquitous computing in schools lessons learned from a school based intervention for youth physical activity
+Understanding my data myself supporting self reflection with ubicomp technologies
+Investigating intelligibility for uncertain context aware applications
+PANDAA physical arrangement detection of networked devices through ambient sound awareness
+Exploring micro incentive strategies for participant compensation in high burden studies
+The social fMRI measuring understanding and designing social mechanisms in the real world
+Recognition of visual memory recall processes using eye movement analysis
+Smart home on smart phone
+A stabilization method of projected images for wearable projector applications
+Emoti bots a line of emotional products for automated future homes
+A ring shaped interactive device for large remote display and mobile device control
+Connecting people through physical resources in an office environment
+Sharing availability information with InterruptMe
+Lupe information access method based on distance between user and sensor nodes using AR technology
+Near ultrasonic directional data transfer for modern smartphones
+Smart makeup system supporting makeup using lifelog sharing
+Tilt 38 touch mobile phone for 3D interaction
+Transferring information from mobile devices to personal computers by using vibration and accelerometer
+CAMPUS context aware mobile platform for uniformed security
+Self adaptive middleware for the design of context aware software applications in public transit systems
+MAQS a mobile sensing system for indoor air quality
+Air finger enabling multi scale navigation by finger height above the surface
+Harmonicare a novel wind instrument easy to learn and play
+A data rich approach for investigating social mechanisms in the wild
+Communication around home energy monitoring devices connecting stakeholders in low income communities
+Design of persuasive technologies for healthy sleep behavior
+Facilitating consumption of online social networking services on mobile devices
+Research on user activity and context model based mobile context aware interaction design method
+Enriching location information an energy efficient approach
+Don t let me down using contextual information to aid diabetics
+A framework for user controlled remembering and forgetting in long term user models
+A user s perspective of design for context awareness
+A dependable middleware for the development of applications for wireless sensor and actor networks
+MixPad augmenting interactive paper with mice 38 keyboards for fine grained cross media interaction with documents
+Qooqle search with speech gesture and social media
+ARHCI use input and output of eyes to interact with things
+Considerations of applying surface based phone gestures to natural context
+Ubira a mobile platform for an integrated online offline shopping experience
+A new input device putting together merits of shortcut key and toolbar fast keypad system
+An effective tracking technique of public transportation toward passenger generated vehicle location system
+Proposal of collaborative navigation for multi users from different departure points to the same goal
+Toward delegated observation of kindergarten children s exploratory behaviors in field trips
+Demonstrating generation Y interactions through interactive prototyping
+A rotation based method for detecting on body positions of mobile devices
+Electronic taste stimulation
+Jamming attack in WSN a spatial perspective
+Colocation networks exploring the use of social andgeographical patterns in context aware services
+Polite ringer II a ringtone interaction system using sensor fusion
+You stopped by there I recommend this changing customer behaviors with robots
+HASC2011corpus towards the common ground of human activity recognition
+Easy picker picking objects aided by passive RFIDs
+NFC NFC assisted media sharing for mobile devices
+User grouping method for ad hoc conversations based on proximity of users and speaking volumes acquired from portable sensors
+Detecting water waste activities for water efficient living
+CoolMag a tangible interaction tool to customize instruments for children in music education
+Application of dimensionality reduction techniques for mobile social context
+ContextCapture using context based awareness cues to create narrative events for status updates
+Towards qualitative assessment of weight lifting exercises using body worn sensors
+Response time improvement in accelerometer based activity recognition by activity change detection
+Activity and device position recognition in mobile devices
+Location based information fusion for mobile navigation
+Multi granular demand forecasting in SmarterWater
+Ubiquitous augmented reality expanding augmented reality environment with wireless tags and visible light communication projector
+IteMinder finding items in a room using passive RFID tags and an autonomous robot poster 
+DrawerBrowser practical picture browser for finding items in drawers
+Distributed human activity data processing using HASC tool
+Qviz visualizer of ramen queues
+Core functionality and new applications for tabletops and interactive surfaces
+Ready to live wearable computing meets fashion
+A ubiquitous wireless video surveillance system based on pub sub
+Lighting choreographer an LED control system for dance performances
+FlyingBuddy augment human mobility and perceptibility
+Second international workshop on ubiquitous crowdsourcing towards a platform for crowd computing
+2nd workshop on research in the large using app stores wide distribution channels and big data in ubicomp research
+International workshop on networking and object memories for the internet of things NOMe IoT 2011 
+The 5th ACM international workshop on context awareness for self managing systems CASEMANS 2011 
+The first international symposium on social and community intelligence SCI 11 
+PETMEI 2011 the 1st international workshop on pervasive eye tracking and mobile eye based interaction
+The role of design in Ubicomp research and practice
+Workshop overview for the international workshop on situation activity and goal awareness
+Ubiquitous affective awareness and intelligent interaction 2011
+TDMA 11 workshop overview
+Mobile sensing challenges opportunities and future directions
+Improving energy efficiency of personal sensing applications with heterogeneous multi processors
+SAPSM Smart adaptive 802 11 PSM for smartphones
+ i Looking ahead i how field trials can work in iterative and exploratory design of ubicomp systems
+What next ubicomp celebrating an intellectual disappearing act
+Long term effects of ubiquitous surveillance in the home
+Being SMART about failures assessing repairs in SMART homes
+Investigating receptiveness to sensing and inference in the home using sensor proxies
+ Honey sugar means unhealthy investigating how people apply knowledge to rate food s healthiness
+A spark of activity exploring informative art as visualization for physical activity
+Recognizing water based activities in the home through infrastructure mediated sensing
+Attacking location privacy exploring human strategies
+An ultra low power human body motion sensor using static electric field sensing
+Enhancing communication and dramatic impact of online live performance with cooperative audience control
+Online pose classification and walking speed estimation using handheld devices
+Takes a transnational network to raise a child the case of migrant parents and left behind Jamaican teens
+Ubicomp s colonial impulse
+Exploring interspecies sensemaking dog tracking semiotics and multispecies ethnography
+An unsupervised framework for sensing individual and cluster behavior patterns from human mobile data
+Contextual conditional models for smartphone based human mobility prediction
+Understanding and prediction of mobile application usage for smart phones
+Rethinking the smart closet as an opportunity to enhance the social currency of clothing
+The french kitchen task based learning in an instrumented kitchen
+An investigation of contents and use of the home wardrobe
+Fine grained kitchen activity recognition using RGB D
+Providing eco driving feedback to corporate car drivers what impact does a smartphone application have on their fuel efficiency 
+Understanding domestic energy consumption through interactive visualisation a field study
+Lullaby a capture 38 access system for understanding the sleep environment
+RubberBand augmenting teacher s awareness of spatially isolated children on kindergarten field trips
+Detecting pedestrian flocks by fusion of multi modal sensors in mobile phones
+Detecting leisure activities with dense motif discovery
+Orientation aware scene understanding for mobile cameras
+Understanding physiological responses to stressors during physical activity
+SpiroSmart using a microphone to measure lung function on a mobile phone
+A high accuracy low latency scalable microphone array system for conversation analysis
+Mood meter counting smiles in the wild
+Identifying emotions expressed by mobile users through 2D surface and 3D motion gestures
+Friends don t lie inferring personality traits from social network structure
+An integrated framework for human activity classification
+BodyScope a wearable acoustic sensor for activity recognition
+StressSense detecting stress in unconstrained acoustic environments using smartphones
+Cellular data meet vehicular traffic theory location area updates and cell transitions for travel time estimation
+Some help on the way opportunistic routing under uncertainty
+Predictability of individuals mobility with high resolution positioning data
+Automatic assessment of problem behavior in individuals with developmental disabilities
+Parent driven use of wearable cameras for autism support a field study with families
+Augmenting gesture recognition with erlang cox models to identify neurological disorders in premature babies
+A reliable and accurate indoor localization method using phone inertial sensors
+Robust low cost indoor positioning using magnetic resonant coupling
+ARIEL automatic wi fi based room fingerprinting for indoor localization
+Enhancing the second hand retail experience with digital object memories
+Walk 38 Sketch create floor plans with an RGB D camera
+Fa ccedil ade map continuous interaction with media fa ccedil ades using cartographic map projections
+Automatically characterizing places with opportunistic crowdsensing using smartphones
+Helping mobile apps bootstrap with fewer users
+Expectation and purpose understanding users mental models of mobile app privacy through crowdsourcing
+Making technology homey finding sources of satisfaction and meaning in home automation
+Democratizing ubiquitous computing a right for locality
+iPods Ataris and Polaroids a personal inventories study of out of use electronics in Swiss households
+Touch eacute touch and gesture sensing for the real world
+Indoor outdoor activity recognition by a smartphone
+Discovering the web by location with Webnear me
+LiDSN a method to deploy wireless sensor networks securely based on light communication
+Lightweight image processing algorithms on the camera sensor node in WMSNs
+CookTab smart cutting board for creating recipe with real time feedback
+SenSprout inkjet printed soil moisture and leaf wetness sensor
+AnyType creating typography from anything anywhere
+CarSafe demo supporting driver safety using dual cameras on smartphones
+A framework to promote user engagement in participatory sensing applications
+Integrating participatory sensing and informal science education
+A flexible tool for participating authoring and managing citizen science campaigns on the go
+Using embodied allegories to design gesture suites for human data interaction
+Consent reconsidered reframing consent for ubiquitous computing systems
+Personalized lighting control based on a space model
+Design and implementation of a space model server for indoor location based services
+Activity recognition using a spectral entropy signature
+A privacy by design approach to location sharing
+RoCoMo a generic ontology for context modeling representation and reasoning in a context aware middleware
+Interactive pong exploring ways of user inputs through prototyping with sensors
+Development of a distributed chemical event system
+Listen to nose a low cost system to record nasal symptoms in daily life
+Mobile posture monitoring system to prevent physical health risk of smartphone users
+Top of worlds method for improving motivation to participate in sensing services
+From rotary telephones to universal number entry systems can the past re shape the future 
+Towards causal models for building behavioral user profile in ubiquitous computing applications
+Indoor outdoor activity recognition by a smartphone
+Using social network graphs for search space reduction in internet of things
+CalMate communication support system for couples using a calm avatar
+Preserving location privacy by distinguishing between public and private spaces
+Mobile augmented reality learning tool to simulate experts perspectives in the field
+Multi touch passwords for mobile device access
+Evaluating semi automatic annotation of domestic energy consumption as a memory aid
+User profile generation reflecting user s temporal preference through web life log
+The occurrence of vigilance during intermittent use
+Personalization of an energy awareness pervasive game
+An integrated framework for human activity recognition
+DHT based sensor data management for geographical range query
+Understanding how trace segmentation impacts transportation mode detection
+SmartShadow K an practical knowledge network for joint context inference in everyday life
+Surrounding context and episode awareness using dynamic Bluetooth data
+WiFiTreasureHunt a mobile social application for staying active physically
+Semantic anomaly detection in daily activities
+Design of a context aware signal glove for bicycle and motorcycle riders
+TeC apps for smart spaces simple decentralized resilient and self healing
+Semantic context relevance assessment in urban ubiquitous environments
+Towards macroscopic human behavior based authentication for mobile transactions
+TempoString a tangible tool for children s music creation
+Preliminary evaluation of feature level compensation for missing data in multi sensor activity recognition
+Using mid range RFID for location based activity recognition
+Multi layer e textile circuits
+MobileQueue an image based queue card management system through augmented reality phones
+Plastic is fantastic experimenting with the building affordances of fuse beads in physical computing
+Unsupervised discovery of spatial relationships between objects for activity recognition inside smart home
+uSmell a gas sensor system to classify odors in natural uncontrolled environments
+Opportunities for ubiquitous computing in the homes of low SES older adults
+Phone based gait analysis to detect alcohol usage
+weShop using social data as context in the retail experience
+Gluballoon an unobtrusive and educational way to better understand one s diabetes
+Squama a programmable window and wall for future physical architectures
+FlyingBuddy2 a brain controlled assistant for the handicapped
+CarSafe a driver safety app that detects dangerous driving behavior using dual cameras on smartphones
+2nd International Workshop on Pervasive Eye Tracking and Mobile Eye Based Interaction PETMEI 2012 proposal for a workshop mini track at UbiComp 2012
+Automatic analysis of eye tracking data using object detection algorithms
+Dataset for the evaluation of eye detector for gaze estimation
+Hybrid eye detection algorithm for outdoor environments
+Parallax error in the monocular head mounted eye trackers
+Location by parts model generation and feature fusion for mobile eye pupil tracking under challenging lighting
+Detecting eye contact using wearable eye tracking glasses
+Enhanced gaze interaction using simple head gestures
+Eye gesture recognition on portable devices
+UbiMI ubiquitous mobile instrumentation
+Context aware mobile crowdsourcing
+A comparison of alternative client server architectures for ubiquitous mobile sensor based applications
+Ubiquitous inference of mobility state of human custodian in people centric context sensing
+Engaging participants for collaborative sensing of human mobility
+On the challenges of building a web based ubiquitous application platform
+Multimodal annotation tool for challenging behaviors in people with Autism spectrum disorders
+Using ontologies to reduce user intervention to deploy sensing campaigns with the InCense toolkit
+A preliminary study of sensing appliance usage for human activity recognition using mobile magnetometer
+Existing challenges and new opportunities in context aware systems
+Privacy context model for dynamic privacy adaptation in ubiquitous computing
+Context aware content adaptation in access point
+Vertical and horizontal integration towards collective adaptive system a visionary approach
+Service delivery and provision in smart environment
+Precise passive RFID localization for service delivery in smart home
+Software provision in smart environment based on fuzzy logic intelligibility
+System services partitioning in ambient assisted living environment
+Weights of evidence for intelligible smart environments
+Generic architecture for ambient intelligence based on an organizational centered multi agent approach
+Workshop on Computer Mediated Social Offline Interactions SOFTec 2012 
+Enriching family personal encounters with ambient social media
+Using media fa ccedil ades to engage social interaction
+Reactions Twitter based mobile application for awareness of friends emotions
+Leveraging media repertoires to create new social ties
+Putting local back into public Wifi hotspots
+What can people nearby applications teach us about meeting new people 
+Fostering off line interactions through local ubicomp systems the case of urban development
+Smart gadgets meet ubiquitous and social robots on the web
+Ontology based state representation for intention recognition in cooperative human robot environments
+Combining robotic frameworks with a smart environment framework MCA2 SimVis3D and TinySEP
+Nesting the context for pervasive robotics
+An evidential fusion approach for activity recognition under uncertainty in ambient intelligence environments
+Modeling ontology for multimodal interaction in ubiquitous computing systems
+Multimodal architecture to strengthen the interaction of the robot in ambient intelligence environments
+Web based automated black box testing framework for component based robot software
+Autonomic framework based on semantic models for self management of ubiquitous systems
+Web based service brokerage for robotic devices
+Using indistinguishability in ubiquitous robot organizations
+Towards an upper ontology and methodology for robotics and automation
+Future research challenges and applications of ubiquitous robotics
+Open platform for ubiquitous robotic services
+The preface of the 4 sup th sup International Workshop on Location Based Social Networks
+We know where you live privacy characterization of foursquare behavior
+Improving location prediction services for new users with probabilistic latent semantic analysis
+Predicting future locations with hidden Markov models
+Beyond local categories and friends clustering foursquare users with latent topics 
+Exploring trajectory driven local geographic topics in foursquare
+Crowd sourced cartography measuring socio cognitive distance for urban areas based on crowd s movement
+Mining the semantics of origin destination flows using taxi traces
+Towards reliable spatial information in LBSNs
+Detection classification and visualization of place triggered geotagged tweets
+Users sleeping time analysis based on micro blogging data
+Spatial dissemination metrics for location based social networks
+LBSNRank personalized pagerank on location based social networks
+Followee recommendation in asymmetrical location based social networks
+Geo activity recommendations by using improved feature combination
+ i TraMSNET i a mobile social network application for tourism
+International Workshop on Situation Activity and Goal Awareness SAGAware 2012 
+An ontological context model for representing a situation and the design of an intelligent context aware middleware
+A benchmark dataset to evaluate sensor displacement in activity recognition
+USC HAD a daily activity dataset for ubiquitous activity recognition using wearable sensors
+Health score prediction using low invasive sensors
+Passive detection of situations from ambient FM radio signals
+Applications of mobile activity recognition
+Predicting mobile application usage using contextual information
+Evaluating the robustness of activity recognition using computational causal behavior models
+Towards the detection of unusual temporal events during activities using HMMs
+HomeSys systems and infrastructure for the digital home
+Engaging end users in real smart space programming
+MagnoTricorder what you need to do before leaving home
+Living with an intelligent thermostat advanced control for heating and cooling systems
+HomeLab shared infrastructure for home technology field studies
+Putting home users in charge of their network
+Methodical approaches to prove the effects of subliminal perception in ubiquitous computing environments
+The role of subliminal perception in vehicular interfaces
+A systematic approach to using music for mitigating affective effects on driving performance and safety
+More cooperative or more uncooperative decision making after subliminal priming with emotional faces
+Affective priming with subliminal auditory stimulus exposure
+Incorporating subliminal perception in synthetic environments
+Are you cool enough for Texas Hold Em Poker 
+Perifoveal display combining foveal and peripheral vision in one visualization
+Digital Object Memories for the Internet of Things DOMe Iot 
+How to instill activity into digital object memories
+Customizing instructions from smart objects
+Take me I m yours mimicking object agency
+Adaptive workflows in smart environments combining imperative and declarative models
+Prosthetic memory object memories and security for children
+Approaches to interacting with digital object memories in the real world
+Experiments with the internet of things in museum space QRator
+Balancing human agency and object agency an end user interview study of the internet of things
+Digital object memories for the internet of things DOMe IoT 
+Fine grained sharing of sensed physical activity a value sensitive approach
+Headio zero configured heading acquisition for indoor mobile devices through multimodal context sensing
+Crowd unsupervised speaker count with smartphones
+Privacy manipulation and acclimation in a location sharing application
+Modelling heterogeneous location habits in human populations for location prediction under data sparsity
+Opportunistic position update protocols for mobile devices
+Your reactions suggest you liked the movie automatic content rating via reaction sensing
+TherML occupancy prediction for thermostat control
+Three case studies of UX with moving products
+Automatically detecting problematic use of smartphones
+ We are not in the loop resource wastage and conservation attitude of employees in indian workplace
+FOCUS a usable 38 effective approach to OLED display power management
+An informed view on consent for UbiComp
+Find my stuff supporting physical objects search with relative positioning
+Sensing the pulse of urban refueling behavior
+Walk detection and step counting on unconstrained smartphones
+CoenoFire monitoring performance indicators of firefighters in real world missions using smartphones
+Understanding adaptive thermal comfort new directions for UbiComp
+Contextual dissonance design bias in sensor based experience sampling methods
+Exploring capturable everyday memory for autobiographical authentication
+COPDTrainer a smartphone based motion rehabilitation training system with real time acoustic feedback
+If you see something swipe towards it crowdsourced event localization using smartphones
+There s no such thing as gaining a pound reconsidering the bathroom scale user interface
+Embracing calibration in body sensing using self tweaking to enhance ownership and performance
+NLify lightweight spoken natural language interfaces via exhaustive paraphrasing
+A model for WLAN signal attenuation of the human body
+Detecting and correcting WiFi positioning errors
+A cloud powered driver less printing system for smartphones
+AirWave non contact haptic feedback using air vortex rings
+Fine grained preference aware location search leveraging crowdsourced digital footprints from LBSNs
+Revisiting human battery interaction with an interactive battery interface
+Inferring human mobility patterns from taxicab location traces
+The influence of temporal and spatial features on the performance of next place prediction algorithms
+The break time barometer an exploratory system forworkplace break time social awareness
+Making family care work dependence privacy and remote home monitoring telecare systems
+Hallway based automatic indoor floorplan construction using room fingerprints
+The media fa 231 ade toolkit prototyping and simulating interaction with media fa 231 ades
+A wearable projector based gait assistance system and its application for elderly people
+Exploring sustainability research in computing where we are and where we go next
+Experiences with a social travel information system
+A field study of multi device workflows in distributed workspaces
+Pursuits spontaneous interaction with displays based on smooth pursuit eye movement and moving targets
+Adding an interactive display to a public basketball hoop can motivate players and foster community
+The timestreams platform artist mediated participatory sensing for environmental discourse
+Towards more natural digital content manipulation via user freehand gestural interaction in a living room
+Crowdsourcing on the spot altruistic use of public displays feasibility performance and behaviours
+Combining embedded accelerometers with computer vision for recognizing food preparation activities
+A tangible programming tool for creation of context aware applications
+CacheKeeper a system wide web caching service for smartphones
+Locality and privacy in people nearby applications
+Instant inkjet circuits lab based inkjet printing to support rapid prototyping of UbiComp devices
+FYI communication style preferences underlie differences in location sharing adoption and usage
+Understanding user behavior at scale in a mobile video chat application
+Learning from a learning thermostat lessons for intelligent systems for the home
+Practical prediction and prefetch for faster access to applications on mobile phones
+Estimating heart rate variation during walking with smartphone
+ClimbAX skill assessment for climbing enthusiasts
+It takes a network to get dinner designing location based systems to address local food needs
+Home computing unplugged why where and when people use different connected devices at home
+Beyond self monitoring understanding non functional aspects of home based healthcare technology
+Detecting cocaine use with wearable electrocardiogram sensors
+The collective infrastructural work of electricity exploring feedback in a prepaid university dorm in China
+Understanding the coverage and scalability of place centric crowdsensing
+Weiser s dream in the Korean home collaborative study of domestic roles relationships and ideal technologies
+Power harvesting from microwave oven electromagnetic leakage
+A probabilistic ontological framework for the recognition of multilevel human activities
+MACH my automated conversation coach
+Placer semantic place labels from diary data
+Storage aware smartphone energy savings
+UniPad orchestrating collaborative activities through shared tablets and an integrated wall display
+Supporting disease insight through data analysis refinements of the monarca self assessment system
+Predicting audience responses to movie content from electro dermal activity signals
+Technological approaches for addressing privacy concerns when recognizing eating behaviors with wearable cameras
+Adaptive information sharing for privacy aware mobile social networks
+Towards zero shot learning for human activity recognition using semantic attribute sequence model
+An unsupervised learning approach to social circles detection in ego bluetooth proximity network
+Classifying social actions with a single accelerometer
+An RF doormat for tracking people s room locations
+DopLink using the doppler effect for multi device interaction
+Wirelessly powered bistable display tags
+Ensembles of multiple sensors for human energy expenditure estimation
+Musical embrace exploring social awkwardness in digital games
+Dog s life wearable activity recognition for dogs
+WebClip a connector for ubiquitous physical input and output for touch screen devices
+Making a home for social media
+FoodBoard surface contact imaging for food recognition
+Detecting cooking state with gas sensors during dry cooking
+Lumina a soft kinetic material for morphing architectural skins and organic user interfaces
+Using a 2DST waveguide for usable physically constrained out of band Wi Fi authentication
+Protecting privacy for group nearest neighbor queries with crowdsourced data and computing
+Ambient recommendations in the pop up shop
+SOUK social observation of human kinetics
+Creating the magic with information technology
+AcrySense interactive carved acrylic board
+Supporting interaction in public space with electrical muscle stimulation
+SVD based hierarchical data gathering for environmental monitoring
+Browsing reality dynamic contextualization in human scale smart spaces
+OpenLight a concept of urban lighting to make urbanites aware of each other
+Efficient in pocket detection with mobile phones
+Portable CAVE using a mobile projector
+Demo abstract saving energy in smart commercial buildings through social gaming
+Bridging the last gap LedTX optical data transmission of sensor data for web services
+Control and scheduling interface for public displays
+Social networked displays integrating networked public displays with social media
+Resonant magnetic coupling indoor localization system
+Some like it hot automating an electric kettle using PalCom
+MoodRhythm tracking and supporting daily rhythms
+Sensing fork and persuasive game for improving eating behavior
+P I A N O enhancing instrument learning via interactive projected augmentation
+Local area artworks collaborative art interpretation on site
+Prifi beacons piggybacking privacy implications on wifi beacons
+ConteXinger a context aware song generator
+Giving context to sounds through mediation of physical objects
+Smartphone bluetooth based social sensing
+TaskShadow W NFC triggered migration of web browsing across personal devices
+Smartphone based monitoring system for activities of daily living for elderly people and their relatives etc 
+Scaling up ubiquitous robotic systems from home to town and beyond 
+Context aware frame rate adaption for video chat on smartphones
+Working relationship detection from fitbit sensor data
+Digital interventions for sustainable urban mobility a pilot study
+Inferring social ties in pervasive networks an on campus comparative study
+Systematic evaluation of social behaviour modelling with a single accelerometer
+Visualization of dimension measurement using a consumer grade tablet camera audio sensor
+Vasque a privacy preserving casual communication system based on a circular mirror metaphor
+Using wearable sensor badges to improve scholastic performance
+BlueView a perception assistant system for the visually impaired
+Compressed signal representation for inertial sensor signals
+Towards context oriented programming in wireless sensor networks
+Activity recognition and nutrition monitoring in every day situations with a textile capacitive neckband
+Virtual uniforms using sound frequencies for grouping individuals
+FaceLog capturing user s everyday face using mobile devices
+Prophet what app you wish to use next
+MPower gain back your android battery life 
+Gesture interaction for wall sized touchscreen display
+Antonius a mobile search engine for the physical world
+Inch scale interactive displays for social object annotation
+Numerical modeling of image discriminability for home storage and organization system on a smart device
+Designing generation Y interaction by eliciting interaction qualities
+Constructing trip routes with user preference from location check in data
+An exploration with online complex activity recognition using cellphone accelerometer
+SpiroVest an e textile based wearable spirometer with posture change adaptability
+E textile pressure sensor based on conductive fiber and its structure
+Optical bow position speed and contact point detection
+Towards a micro blog platform for sensing and easing adolescent psychological pressures
+Applying mobile and internet of things technologies in managing parking spaces for people with disabilities
+PriCal dynamic privacy adaptation of collaborative calendar displays
+MatkaHupi a persuasive mobile application for sustainable mobility
+Annotate me supporting active reading using real time document image retrieval on mobile devices
+A task management system using future prediction based on personal lifelogs and plans
+Device recognition for intuitive interaction with the web of things
+Embedded semantic metadata to support device interaction in smart environments
+Consumer experience modeling and enrichment using RFID
+Ubiquitous support for midwives to leverage daily activities
+Supporting blind navigation using depth sensing and sonification
+Ti Photograph a tele immersive photograph system for distributed parents and children
+PDR based adaptation for user progress in interactive navigation system
+Inferring social contextual behavior from bluetooth traces
+Visualizing web mash ups for in situ vision based mobile AR applications
+Wearable audio feedback system for gait rehabilitation in subjects with Parkinson s disease
+My reading life towards utilizing eyetracking on unmodified tablets and phones
+Dungeons 38 swimmers designing an interactive exergame for swimming
+iFridge an intelligent fridge for food management based on RFID technology
+homeBLOX making home automation usable
+EverCopter continuous and adaptive over the air sensing with detachable wired flying objects
+Point 38 control interaction in smart environments you only click twice
+Reality editor programming smarter objects
+FRAGWRAP fragrance encapsulated and projected soap bubble for scent mapping
+Study of a monopulse system with RFID antennas for applications oriented to retail industry
+Atelier of smart garments and accessories
+Smart garments the issue of usability and aesthetics
+Illumee aesthetic light bracelet as a wearable information display for everyday life
+State of the art and perspectives on the fabrication of functional contact lenses
+WagTag a dog collar accessory for monitoring canine activity levels
+Wearable accessories for cycling tracking memories in urban spaces
+Designing a desirable smart bracelet for older adults
+2nd workshop on recent advances in behavior prediction and pro active pervasive computing
+Collective suffix tree based models for location prediction
+Synthesizing daily life logs through gaming and simulation
+Learning and user adaptation in location forecasting
+On the stability of context prediction
+Wait time prediction how to avoid waiting in lines 
+HASC IPSC indoor pedestrian sensing corpus with a balance of gender and age for indoor positioning and floor plan generation researches
+Labeling method for acceleration data using an execution sequence of activities
+Evaluation function of sensor position for activity recognition considering wearability
+Improving fault tolerance of wearable wearable sensor based activity recognition techniques
+Pointing gesture recognition using compressed sensing for training data reduction
+Parameter exploration for response time reduction in accelerometer based activity recognition
+Detecting wi fi base station behavior inappropriate for positioning method in participatory sensing logs
+Automatic correction of annotation boundaries in activity datasets by class separation maximization
+Monitor and understand pilgrims data collection using smartphones and wearable devices
+Parallel distributed and differential processing system for human activity sensing flows
+Sharing training data among different activity classes
+Chairs summary proposal for international workshop on human activity sensing corpus and its application hasca2013 
+Human interfaces for civic and urban engagement HiCUE 13
+Engaging in island life big data micro data domestic analytics and smart islands
+Digital soapboxes towards an interaction design agenda for situated civic innovation
+A mobile brain sensing system for recommending third places
+Mobile observatory an exploratory study of mobile air quality monitoring application
+Reinforcing co located communication practices through interactive public displays
+Geovisual interfaces to find suitable urban regions for citizens a user centered requirement study
+A mobile phone based exploratory citizen sensing environment
+Zone based indoor mobile air pollution monitoring
+Accessibility for people who are blind in public transportation systems
+Designing for smart cities connecting and binding citizens to urban spaces through a new wearable interactive system
+Tending a virtual garden exploring connectivity between cities
+PeTRE workshop on pervasive technologies in retail environments
+Wi Fi fingerprinting through active learning using smartphones
+ProFi design and evaluation of a product finder in a supermarket scenario
+TrackLab an innovative system for location sensing customer flow analysis and persuasive information presentation
+Towards the counter free store requirements for mobile sales assistants
+Augmented reality based advertising strategies for paper leaflets
+STORE VIEW pervasive RFID 38 indoor navigation based retail inventory management
+Healthy shopping a longitudinal study of a mobile app to encourage a balanced diet
+Enriching shopping experiences with pervasive displays and smart things
+A plugin framework to control electronic shelf labels
+Cricking customer product interaction in retail using pervasive technologies
+Enhancing the shopping experience through RFID in an actual retail store
+A supermarket stress map
+Smartphone sensing for distributed swim stroke coaching and research
+Combination and abstraction of sensors for mobile context awareness
+What s in the apps for context extending a sensor for studying app usage to informing context awareness
+User device and orientation independent human activity recognition on mobile phones challenges and a proposal
+CrowdHelp application for improved emergency response through crowdsourced information
+Evaluation of challenges in human subject studies in the wild using subjects personal smartphones
+How AdkintunMobile measured the world
+Ubiquitous mobile instrumentation
+1st workshop on human factors and activity recognition in healthcare wellness and assisted living recognise2interact
+MyConverse recognising and visualising personal conversations using smartphones
+How lonely is your grandma detecting the visits to assisted living elderly from wireless sensor network data
+When do you light a fire capturing tobacco use with situated wearable sensors
+EatChaFood challenging technology design to slice food waste production
+Collective spaces and collected action towards reconnecting food consumers and nature
+Understanding underutilisation methods for studying fruit and vegetable buying behaviours
+Wild food practices understanding the wider implications for design and HCI
+Designing a smart phone app for sustainable cooking
+Green food technology UbiComp opportunities for reducing the environmental impacts of food
+On managed services lanes and their use in home networks
+The digital bookshelf decorating with collections of digital books
+The smart home controller on your wrist
+Taking smart space users into the development loop an architecture for community based software development for smart spaces
+homeBLOX introducing process driven home automation
+Exploring the hidden impacts of HomeSys energy and emissions of home sensing and automation
+Human localization at home using kinect
+Communities in the clouds support for high rise living
+Always beta cooperative design in the smart home
+The furniture of ubiquitous computing
+Living a platform for assisted living applications
+Towards user identification in the home from appliance usage patterns
+HomeSys 2013 workshop on design technology systems and applications for the home
+UbiHeld ubiquitous healthcare monitoring system for elderly and chronic patients
+Touch less interaction with medical images using hand 38 foot gestures
+An evaluation of method for encouraging participation
+The price is right economic value of location sharing
+Understanding customer malling behavior in an urban shopping mall using smartphones
+Open source smartphone libraries for computational social science
+Speech stress assessment using physiological and psychological measures
+Robust voice activity detection for social sensing
+2nd ACM international workshop on mobile systems for computational social science
+Gaussian process based predictive modeling for bus ridership
+Characterizing social response to urban earthquakes using cell phone network data the 2012 oaxaca earthquake
+Revisiting the generality of the rank based human mobility model
+Anomalous event detection on large scale GPS data from mobile phones using hidden markov model and cloud platform
+Exploring relationship between taxi volume and flue gases concentrations
+Mining temporal patterns of transport behaviour for predicting future transport usage
+PURBA 2013 workshop on pervasive urban applications
+SOFTec 2013 second workshop on computer mediated social offline interactions
+A pervasive game to promote social offline interaction
+TrainRoulette promoting situated in train social interaction between passengers
+Linking mobile learning and offline interaction a case study
+Utilizing emerging technologies to promote more efficient face to face patient clinician communication
+A new urban technoscape component the smart sup 2 sup poster
+Exploring design opportunities for social intimacy through everyday objects and practices
+WoT 2013 fourth international workshop on the web of things
+CoAP for the web of things from tiny resource constrained devices to the web browser
+Semantic metadata to support device interaction in smart environments
+A RESTful and decentralised implementation of open objects
+Temporally relaxed conditions for activation of services in the web of things
+Reconsidering the social web of things position paper
+Thing broker a twitter for things
+Offering web of things connectivity to building networks
+Toward interoperability in a web of things
+Adaptive clustering for device free user positioning utilizing passive RFID
+Ambient intelligence sensing using array sensor device free radio based approach
+Joint localization and activity recognition from ambient FM broadcast signals
+RF Based device free recognition of simultaneously conducted activities
+New insights into wifi based device free localization
+Device free indoor localization using ambient radio signals
+CoSDEO 2013 device free radio based recognition
+UbiComp for grassroots urban food growing communities
+Wordpress of objects addressing layman participation in a post industrial society
+From sketches to CAM models perceiving pockets and steps in single view wireframe sketches of polyhedral shapes
+3D effects box for bridging 3D scan and 3D print
+Workshop on personal and pervasive fabrication PerFab 2013 
+SenCity uncovering the hidden pulse of a city workshop 
+Towards healthier urban mobility
+Sense of space mapping physiological emotion response in urban space
+The advantages of passive mobile positioning as a type of community sensing for analyzing space time behaviour of a citizen
+Creating smart information services for tourists by means of dynamic open data
+Ubicomp 13 sencity workshop sensing festivals as cities
+Rapid prototyping of semantic applications in smart spaces with a visual rule language
+From crowding detection to community fieldwork supporting sensing work in context
+Informing the design of future transport information services with travel behaviour data
+On the use of participatory sensing to better understand city dynamics
+Geographical perspective in city sensing
+Congestrian monitoring pedestrian traffic and congestion
+A middleware framework for urban data management
+emoTicSpace when the built environments get emotional 
+Using technology to reveal the politics of the built environment
+Living light lab exploring instant feedback in mediated urban space
+Wearable systems for industrial augmented reality applications
+Towards a component based platform for industrial AR
+pARnorama 360 degree interactive video for augmented reality prototyping
+Evaluating customer expectance of mixed reality applications in order picking
+Diffractive and holographic optics as optical combiners in head mounted displays
+The bumpy road of bringing wearable augmented reality systems to market
+Decentralised approach for a reusable crowdsourcing platform utilising standard web servers
+effSense energy efficient and cost effective data uploading in mobile crowdsensing
+On heterogeneity in mobile sensing applications aiming at representative data collection
+Publish subscribe middleware for energy efficient mobile crowdsensing
+CrowdMeter an emulation platform for performance evaluation of crowd sensing applications
+Locating emergencies in a campus using wi fi access point association data
+PUCAA 1st international workshop on pervasive urban crowdsensing architecture and applications
+Green food through green food a human centered design approach to green food technology
+HomeFlow inferring device usage with network traces
+Adaptive security and privacy management for the internet of things ASPI 2013 
+BlueEye a system for proximity detection using bluetooth on mobile phones
+A model based back end for air quality data management
+Combining smart phone and infrastructure sensors to improve security in enterprise settings
+FLEAD online frequency likelihood estimation anomaly detection for mobile sensing
+ConferenceSense monitoring of public events using phone sensors
+A generic platform for ubiquitous and subjective data
+Demo touch less interaction with medical images using hand 38 foot gestures
+MyConverse in action monitoring conversations using smartphones
+When do you light a fire capturing tobacco use with situated wearable sensors
+Sharing bubbles reflections on offline multi surface scenarios
+Evaluating impact of storage on smartphone energy efficiency
+Digital naturalism interspecies performative tool making for embodied science
+Measuring joint movement through garment integrated wearable sensing
+Towards food waste interventions an exploratory approach
+Understanding and augmenting a paper arrangement based method
+Pervasive monitoring to support reflective learning
+Practical food journaling
+Supporting self experimentation of behavior change strategies
+Device free people counting and localization
+The UbiComp 2013 doctoral school
+Lab of things a platform for conducting studies with connected devices in multiple homes
