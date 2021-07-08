@@ -1,7 +1,6 @@
 #FROM centos:centos7
 
-
-from tensorflow/tensorflow:2.4.2-gpu
+FROM tensorflow/tensorflow:2.4.2-gpu
 LABEL maintainer="Fatima Sadiq"
 RUN apt update
 RUN apt install git python3-pip -y
