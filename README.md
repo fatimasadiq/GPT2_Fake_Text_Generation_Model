@@ -1,4 +1,4 @@
-# PhD_task1
+#GPT2_Fake_Text_Generation_Model
 This will cover GPT2 and MISP for human authentication
 
 # todo
